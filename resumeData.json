@@ -1,0 +1,143 @@
+{
+    "main": {
+      "name":"Chirag Saini",
+      "description":"I am a Python Developer with Interest in Data Science and Web Development. When not working with Python, I maybe using ReactJS or doing coding in general to constantly improve my DSA.",
+      "image":"profilepic.jpg",
+      "bio":"Hi, My name is Chirag Saini. I am a Computer Science graduate with an emphasis on Problem Solving and Analytical Thinking. Skills include Python and its various related frameworks/libraries such as Sci-kit learn, Django, Flask,Keras. Android Development using Dart and Flutter. Able to apply creative thinking to improve user experience surroundings. Now working on my front-end skills by learning ReactJS",
+      "email": "chiragsaini7777@gmail.com",
+      "phone": "978-028-3734",
+      "github":"https://github.com/ChiragSiani",
+      "linkedin":"https://www.linkedin.com/in/chiragsaini97/",
+      "address":{
+        "street":"230/B, Street No.1",
+        "city":"Jalandhar",
+        "state":"Punjab",
+        "zip": "144009"
+      },
+      "website": "http://www.chiragsaini.works",
+      "resumedownload":"https://chiragsaini.github.io/CV%20Graduated.pdf",
+      "social":[
+        {
+          "name":"twitter",
+          "url":"http://twitter.com/ChiragSaini97",
+          "className":"fa fa-twitter"
+        },
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/chiragsaini97/",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"instagram",
+          "url":"http://instagram.com/chiragsaini",
+          "className":"fa fa-instagram"
+        },
+        {
+          "name":"github",
+          "url":"https://github.com/ChiragSaini",
+          "className":"fa fa-github"
+        }
+      ]
+    },
+    "resume":{
+      "skillmessage":"Here are some my skills",
+      "education":[
+        {
+          "school":"DAV Institute of Engineering and Technology",
+          "degree":"B.tech CSE",
+          "graduated":"Auguts 2016 -  July 2020",
+          "description":"CGPA: 8.54"
+        }
+      ],
+      "work":[
+        {
+          "company":"Chegg.com",
+          "title":"Subject Matter Expert ",
+          "years":"Oct 2018 -  Dec 2018",
+          "description":"Solving students doubts and Quesires related to various fields of Computer Science."
+        }
+      ],
+      "skills":[
+        {
+          "name":"Python",
+          "level":"70%"
+        },
+        {
+          "name":"Django",
+          "level":"50%"
+        },
+        {
+          "name":"ReactJs",
+          "level":"50%"
+        },
+        {
+          "name":"PyTorch",
+          "level":"40%"
+        },
+        {
+          "name":"Keras",
+          "level":"50%"
+        },
+        {
+          "name":"Flutter",
+          "level":"30%"
+        },
+        {
+          "name":"C++",
+          "level":"50%"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"Instagram Clone",
+          "category":"Instagram home page Clone",
+          "image":"insta_clone.png",
+          "url":"https://instagram-clone-16740.web.app/"
+        },
+        {
+          "title":"Netflix Clone",
+          "category":"Netflix Home Clone",
+          "image":"netflix_clone.png",
+          "url":"https://netflix-clone-6c36f.web.app/"
+        },
+        {
+          "title":"Django realest Estate",
+          "category":"Full Stack Project USing Django and reactJS",
+          "image":"realest_estate.png",
+          "url":"https://github.com/ChiragSaini/Django-ReactJS-Realest-Estate/"
+        },
+        {
+          "title":"COVID 19 India Dashboard",
+          "category":"Covid 19 India Dashboard made using Python and Streamlit",
+          "image":"covid.png",
+          "url":"https://covid19-dashboard-streamlit.herokuapp.com/"
+        },
+        {
+          "title":"Traffic Sign Teller",
+          "category":"Recognize Traffic Signs using CNN",
+          "image":"traffic_web.png",
+          "url":"http://trafficsignteller.herokuapp.com/"
+        },
+        {
+            "title":"Blog Website",
+            "category":"Blog Website using Flask",
+            "image":"blog.png",
+            "url":"https://blogchirag.herokuapp.com/"
+        },
+        {
+            "title":"Facial Emotion Recognition",
+            "category":"Face Emotion Recognition using Keras CNN",
+            "image":"face_emotion.png",
+            "url":"https://github.com/ChiragSaini/facial-emotion-detector"
+        },
+        {
+            "title":"Teachabke CLassifier",
+            "category":"Teacable Rock Paper Scissors using TensorflowJS",
+            "image":"teachable.png",
+            "url":"https://chiragsaini.github.io/Rock-Paper-Scissors/"
+        }
+      ]
+    }
+  }
