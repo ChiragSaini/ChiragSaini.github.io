@@ -15,7 +15,7 @@
         "zip": "144009"
       },
       "website": "http://www.chiragsaini.works",
-      "resumedownload":"https://github.com/ChiragSaini/ChiragSaini/raw/master/CV.pdf",
+      "resumedownload":"https://github.com/ChiragSaini/ChiragSaini/raw/master/Chirag_Saini_Resume_One_Page.pdf",
       "social":[
         {
           "name":"twitter",
@@ -50,6 +50,18 @@
         }
       ],
       "work":[
+           {
+          "company":"GeekyBones Lab Pvt. Ltd.",
+          "title":"Web Developer(MERN Stack)",
+          "years":"August 2020 -  Present",
+          "description":"Creating Responsive Web Applications using MERN Stack Technologies. Working with Teams on Design, Development and Integration of Web Applications. Following Test Driven Approach in ReactJS."
+        },
+          {
+          "company":"EME Technologies",
+          "title":"Trainee",
+          "years":"Jan 2020 -  June 2020",
+          "description":"6 months training in Python and its various domains. Worked in ML/DL Frameworks like Tensorflow and Keras, and on Web Frameowrks like FLask and Django"
+        },
         {
           "company":"Chegg.com",
           "title":"Subject Matter Expert ",
@@ -60,14 +72,18 @@
       "skills":[
         {
           "name":"Python",
+          "level":"80%"
+        },
+          {
+          "name":"ReactJs",
           "level":"70%"
         },
-        {
-          "name":"Django",
+          {
+          "name":"React Native",
           "level":"50%"
         },
         {
-          "name":"ReactJs",
+          "name":"Django",
           "level":"50%"
         },
         {
@@ -80,7 +96,7 @@
         },
         {
           "name":"Flutter",
-          "level":"30%"
+          "level":"40%"
         },
         {
           "name":"C++",
@@ -133,7 +149,7 @@
             "url":"https://github.com/ChiragSaini/facial-emotion-detector"
         },
         {
-            "title":"Teachabke CLassifier",
+            "title":"Teachalke CLassifier",
             "category":"Teacable Rock Paper Scissors using TensorflowJS",
             "image":"teachable.png",
             "url":"https://chiragsaini.github.io/Rock-Paper-Scissors/"
